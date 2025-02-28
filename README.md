@@ -1,9 +1,3 @@
-
-
-### Repository Description:
-
----
-
 # 🚀 **Call of Duty Warzone Aimbot**  
 **[![Download Aimbot](https://img.shields.io/badge/Download-Aimbot-blueviolet)](https://example.com/download)**
 
